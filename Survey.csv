@@ -1,0 +1,6 @@
+Id;SurveyName;DateCreated;DateUpdated;UserCreated;Report;Source;SurveyType;Id (grupos)
+37;"Encuesta VoiceBot Banco Preguntas";2021-05-27 15:10:52,820;2021-05-31 09:37:31,003;"juan.zabala@offcorss.com";False;"SAC";"Banco";"VoiceBot"
+50;"Evalúa tu experiencia de compra en tiendas OFFCORSS
+Banco de preguntas";2021-06-15 11:59:07,746;2021-06-29 12:07:25,480;"marcela.castrillon@offcorss.com";False;"1010-10";"Banco";"Tiendas físicas"
+54;"Evalúa tu experiencia de compra en los Outlets de OFFCORSS
+Banco de preguntas";2021-06-23 11:01:17,193;2021-09-13 10:26:31,280;"eduardo.morales@offcorss.com";False;"1010-12";"Banco";"Outlets"
